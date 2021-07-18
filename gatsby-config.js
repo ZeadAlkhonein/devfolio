@@ -132,7 +132,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`, // This color appears on mobile
         display: `minimal-ui`,
-        icon: `https://pbs.twimg.com/profile_images/1142880960087810049/srfIrtuB_400x400.jpg`,
+        icon: `${__dirname}/src/images/profile.jpeg`,
       },
     },
   ],
