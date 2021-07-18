@@ -42,17 +42,14 @@ module.exports = {
       {
         name: 'SITE',
         description: 'Data Engineer, Jan 2020 - Present',
-        //link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
         name: 'STC',
         description: 'Data-Mart Developer, Sep 2018 - Jan 2020',
-        //link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
         name: 'Confidintal',
         description: 'Software Engineer, Jan 2018 - Sep 2018',
-        //link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
         name: 'IBM',
