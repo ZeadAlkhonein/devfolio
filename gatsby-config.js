@@ -80,7 +80,7 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
-        path: `${__dirname}/src/images`,
+        path: `https://pbs.twimg.com/profile_images/1142880960087810049/srfIrtuB_400x400.jpg`,
       },
     },
     {
@@ -132,7 +132,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`, // This color appears on mobile
         display: `minimal-ui`,
-        icon: `src/images/my_pic.jpeg`,
+        icon: `https://pbs.twimg.com/profile_images/1142880960087810049/srfIrtuB_400x400.jpg`,
       },
     },
   ],
