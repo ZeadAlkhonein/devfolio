@@ -26,7 +26,7 @@ const Header = ({ metadata = {}, noBlog = false }) => {
     <div className={classes.wrapper}>
       <div className={classes.imageWrapper}>
         <Link to="/">
-          <img className={classes.image} src={profileImg} alt={metadata.name} />
+          <img className={classes.image} src="https://pbs.twimg.com/profile_images/1142880960087810049/srfIrtuB_400x400.jpg" alt={metadata.name} />
         </Link>
       </div>
       <div className={classes.contentWrapper}>

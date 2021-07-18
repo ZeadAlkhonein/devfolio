@@ -80,7 +80,7 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
-        path: `https://pbs.twimg.com/profile_images/1142880960087810049/srfIrtuB_400x400.jpg`,
+        path: `${__dirname}/src/images`,
       },
     },
     {
