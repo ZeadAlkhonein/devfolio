@@ -2,7 +2,7 @@ import { Link } from 'gatsby';
 import get from 'lodash/get';
 import React from 'react';
 
-import profileImg from '../../images/profile.jpg';
+import profileImg from '../../images/profile.jpeg';
 
 const classes = {
   wrapper: 'block mb-6 md:flex',
@@ -26,7 +26,7 @@ const Header = ({ metadata = {}, noBlog = false }) => {
     <div className={classes.wrapper}>
       <div className={classes.imageWrapper}>
         <Link to="/">
-          <img className={classes.image} src="https://pbs.twimg.com/profile_images/1142880960087810049/srfIrtuB_400x400.jpg" alt={metadata.name} />
+          <img className={classes.image} src={profileImg} alt={metadata.name} />
         </Link>
       </div>
       <div className={classes.contentWrapper}>
