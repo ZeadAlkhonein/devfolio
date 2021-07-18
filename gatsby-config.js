@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://agitated-kare-135192.netlify.app/`,
     // Your Name
     name: 'Ziyad Alkhonein',
     // Main Site Title
@@ -132,7 +132,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`, // This color appears on mobile
         display: `minimal-ui`,
-        icon: `src/images/icon.png`,
+        icon: `src/images/my_pic.jpeg`,
       },
     },
   ],
