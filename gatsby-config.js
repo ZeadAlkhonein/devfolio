@@ -50,7 +50,7 @@ module.exports = {
         link: 'site.sa',
         duty: 'Tech Lead on Big data project, Build custom connectors for internal data lake.\
         Sourcing internal system into internal data lake. \
-        Member of Unified Cyber Security Platform(DataHub) initiative (one of SITE 2021 strategy initiatives).\
+        Member of DataHub initiative (one of SITE 2021 strategy initiatives).\
         Build DataWarehouse solutions for Cybersecurity\
         Built a prediction model PoC on internal network to predict whether domain name is malicious or not.\
         Develop BI dashboards and reports for internal departments. \
