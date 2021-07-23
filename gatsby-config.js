@@ -23,18 +23,24 @@ module.exports = {
         description: 'Internal DataLake for CyberSecurity Department using MinIO',
       },
       {
-        name: "ChatBot",
-        description: 'General Chatbot',
-        link: 'https://www.youtube.com/watch?v=WXcVJvIHwLc&ab_channel=%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D9%84%D9%84%D8%A3%D9%85%D9%86%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A%D9%88%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%D9%88%D8%A7%D9%84%D8%AF%D8%B1%D9%88%D9%86%D8%B2'
-      },
-      {
         name: 'Unified Cyber Security Platform.',
         description: 'PoC on internal network to predict whether domain name is malicious or not.'
       },
       {
         name: 'LiteHub',
-        description: 'build and model the DataWarehouse for Cybersecurity using top security standards on Postgres Database'
-      }
+        description: 'built and model the Data-Warehouse for Cybersecurity using top security standards on Postgres Database'
+      },
+      {
+        name: "STC Data Mart Consolidation",
+        description: 'As datamart developer the roles was to consolidate data marts and convert any independent data marts into dependent data marts on EDW'
+      },
+      ,
+      {
+        name: "ChatBot",
+        description: 'General Chatbot',
+        link: 'https://www.youtube.com/watch?v=WXcVJvIHwLc&ab_channel=%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D9%84%D9%84%D8%A3%D9%85%D9%86%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A%D9%88%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%D9%88%D8%A7%D9%84%D8%AF%D8%B1%D9%88%D9%86%D8%B2'
+      },
+      
 
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
@@ -46,7 +52,7 @@ module.exports = {
         duty: 'Tech Lead on Big data project, Build custom connectors for internal data lake.\
         Sourcing internal system into internal data lake. \
         Member of Unified Cyber Security Platform(DataHub) initiative (one of SITE 2021 strategy initiatives).\
-        Build DataWarehouse soluation for Cybersecurity\
+        Build DataWarehouse solutions for Cybersecurity\
         Built a prediction model PoC on internal network to predict whether domain name is malicious or not.\
         Develop BI dashboards and reports for internal departments. \
         Improved data quality of multiple BI reports. '
@@ -77,7 +83,7 @@ module.exports = {
       },
       {
         name: 'Technologies',
-        description: 'S3, ElasticStack, Nifi, Kafka',
+        description: 'S3, ElasticStack, Nifi, Kafka, Airflow, Celery',
       },
       {
         name: 'Other',
