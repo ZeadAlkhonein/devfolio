@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://agitated-kare-135192.netlify.app/`,
+    siteUrl: `https://ziyadalkhonein.io/`,
     // Your Name
     name: 'Ziyad Alkhonein',
     // Main Site Title
@@ -42,10 +42,20 @@ module.exports = {
       {
         name: 'SITE',
         description: 'Data Engineer, Jan 2020 - Present',
+        link: 'site.sa',
+        duty: [
+          {
+          item : 'fdsfsdfsdfsf',
+         // item : 'defdewfew'  
+          },
+        {item : 'ffwef'}
+      ],
       },
       {
         name: 'STC',
         description: 'Data-Mart Developer, Sep 2018 - Jan 2020',
+        link: 'stc.com',
+     //   duty: "dfdfds"
       },
       {
         name: 'Confidintal',
@@ -54,6 +64,7 @@ module.exports = {
       {
         name: 'IBM',
         description: 'Software Engineer Intern',
+        link: 'ibm.com'
       }
     ],
     // Optional: List your skills, they must have `name` and `description`.
