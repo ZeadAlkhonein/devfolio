@@ -56,9 +56,7 @@ export const pageQuery = graphql`
           name
           description
           link
-          duty {
-            item
-          }
+          duty 
         }
         skills {
           name

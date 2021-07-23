@@ -2,14 +2,15 @@ import { Link } from 'gatsby';
 import React from 'react';
 
 const spacing = {
-  padding: '10px'
-}
+  padding: '10px',
+};
 
 const classes = {
   wrapper: 'mb-6',
   name: 'font-semibold text-gray-900 pb-1',
   description: 'text-md text-gray-600 font-light',
 };
+
 
 const SummaryItem = ({ name, description, duty, link = false, internal = false  }) => {
   let linkContent;

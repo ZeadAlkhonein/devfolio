@@ -18,24 +18,24 @@ module.exports = {
     about: `Data Engineer working to advance data-driven cultures in Saudi Arabia by integrating disparate data sources and empowering users to uncover key insights that tell a bigger story.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
-      // {
-      //   name: 'Devfolio',
-      //   description:
-      //     'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-      //   link: 'https://github.com/RyanFitzgerald/devfolio',
-      // },
-      // {
-      //   name: 'ChromeExtensionKit',
-      //   description:
-      //     'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-      //   link: 'https://chromeextensionkit.com/?ref=devfolio',
-      // },
-      // {
-      //   name: 'Another Cool Project',
-      //   description:
-      //     'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-      //   link: 'https://github.com/RyanFitzgerald/devfolio',
-      // },
+      {
+        name: 'DataHub',
+        description: 'Internal DataLake for CyberSecurity Department using MinIO',
+      },
+      {
+        name: "ChatBot",
+        description: 'General Chatbot',
+        link: 'https://www.youtube.com/watch?v=WXcVJvIHwLc&ab_channel=%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D9%84%D9%84%D8%A3%D9%85%D9%86%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A%D9%88%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%D9%88%D8%A7%D9%84%D8%AF%D8%B1%D9%88%D9%86%D8%B2'
+      },
+      {
+        name: 'Unified Cyber Security Platform.',
+        description: 'PoC on internal network to predict whether domain name is malicious or not.'
+      },
+      {
+        name: 'LiteHub',
+        description: 'build and model the DataWarehouse for Cybersecurity using top security standards on Postgres Database'
+      }
+
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
@@ -43,19 +43,20 @@ module.exports = {
         name: 'SITE',
         description: 'Data Engineer, Jan 2020 - Present',
         link: 'site.sa',
-        duty: [
-          {
-          item : 'fdsfsdfsdfsf',
-         // item : 'defdewfew'  
-          },
-        {item : 'ffwef'}
-      ],
+        duty: 'Tech Lead on Big data project, Build custom connectors for internal data lake.\
+        Sourcing internal system into internal data lake. \
+        Member of Unified Cyber Security Platform(DataHub) initiative (one of SITE 2021 strategy initiatives).\
+        Build DataWarehouse soluation for Cybersecurity\
+        Built a prediction model PoC on internal network to predict whether domain name is malicious or not.\
+        Develop BI dashboards and reports for internal departments. \
+        Improved data quality of multiple BI reports. '
       },
       {
         name: 'STC',
         description: 'Data-Mart Developer, Sep 2018 - Jan 2020',
         link: 'stc.com',
-     //   duty: "dfdfds"
+        duty: 'Implement and deliver business intelligence and reporting solutions data for internal business.\
+        Maintain data quality within the bussines layer'
       },
       {
         name: 'Confidintal',
@@ -64,15 +65,15 @@ module.exports = {
       {
         name: 'IBM',
         description: 'Software Engineer Intern',
-        link: 'ibm.com'
-      }
+        link: 'ibm.com',
+        duty: 'Setting up High Performance Computing cluster for Canadian universities'
+      },
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
         name: 'Languages & Frameworks',
-        description:
-          'Python, TeraData SQL and PL/SQL, PostgreSQL, git, Django',
+        description: 'Python, TeraData SQL and PL/SQL, PostgreSQL, git, Django',
       },
       {
         name: 'Technologies',
@@ -80,8 +81,7 @@ module.exports = {
       },
       {
         name: 'Other',
-        description:
-          'Docker, Data Analysis, ETL',
+        description: 'Docker, Data Analysis, ETL',
       },
     ],
   },
