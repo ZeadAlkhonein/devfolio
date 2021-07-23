@@ -31,12 +31,11 @@ module.exports = {
         description: 'built and model the Data-Warehouse for Cybersecurity using top security standards on Postgres Database'
       },
       {
-        name: "STC Data Mart Consolidation",
+        name: 'STC Data Mart Consolidation',
         description: 'As datamart developer the roles was to consolidate data marts and convert any independent data marts into dependent data marts on EDW'
       },
-      ,
       {
-        name: "ChatBot",
+        name: 'ChatBot.',
         description: 'General Chatbot',
         link: 'https://www.youtube.com/watch?v=WXcVJvIHwLc&ab_channel=%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D9%84%D9%84%D8%A3%D9%85%D9%86%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A%D9%88%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%D9%88%D8%A7%D9%84%D8%AF%D8%B1%D9%88%D9%86%D8%B2'
       },
