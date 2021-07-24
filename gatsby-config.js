@@ -138,9 +138,14 @@ module.exports = {
       options: {
         trackingId: [`G-HNFWW99V8L`, 
       ],
+      gtagConfig: {
+       // optimize_id: "OPT_CONTAINER_ID",
+        anonymize_ip: true,
+        cookie_expires: 0,
+      },
+
       pluginConfig: {
         head: true,
-        anonymize_ip: true,
       },
       },
     },
