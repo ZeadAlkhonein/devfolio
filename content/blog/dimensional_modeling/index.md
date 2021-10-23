@@ -94,7 +94,7 @@ Data Architect/modeling is a vast area. And one of the areas that there is no ri
 ### References
 
 [Kimball The Data Warehouse Toolkit 3rd-Edition
-](https://aatinegar.com/wp-content/uploads/2016/05/Kimball_The-Data-Warehouse-Toolkit-3rd-Edition.pdf
+](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional-ebook/dp/B00DRZX6XS
 )
 
 [IBM Data Modeling](https://www.ibm.com/docs/en/ida/9.1.1?topic=modeling-data
