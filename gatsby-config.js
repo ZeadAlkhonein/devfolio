@@ -24,7 +24,7 @@ module.exports = {
       },
       {
         name: 'Unified Cyber Security Platform.',
-        description: 'PoC on internal network to predict whether domain name is malicious or not.'
+        description: 'PoC on internal network to predict whether domain name is malicious or not in real-time.'
       },
       {
         name: 'LiteHub',
@@ -52,7 +52,7 @@ module.exports = {
         Sourcing internal system into internal data lake. \
         Member of DataHub initiative (one of SITE 2021 strategy initiatives).\
         Build DataWarehouse solutions for Cybersecurity.\
-        Built a prediction model PoC on internal network to predict whether domain name is malicious or not.\
+        Built a prediction model PoC on internal network to predict whether domain name is malicious or not in real-time.\
         Develop BI dashboards and reports for internal departments. \
         Improved data quality of multiple BI reports. '
       },
